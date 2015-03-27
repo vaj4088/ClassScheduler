@@ -1,6 +1,12 @@
 # ClassScheduler
 Personal Class Scheduler, also known as ClassScheduler - Schedules courses for a student at a university or college, and other purposes.
 
+REPOSITORY
+
+The primary repository for this program is at Source Forge.  The Source Forge project page is located at:
+
+                       https://sourceforge.net/projects/personalclassscheduler/?source=directory
+
 SYSTEM REQUIREMENTS
 
 Java 1.5 (JRE or JDK 1.5 or higher) is required.
